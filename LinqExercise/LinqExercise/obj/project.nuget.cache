@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZGdksxDQPYR/fAoyltbSpVkp6ndFV3XSnDtl/cM3boOi3sWSLiSWaedOvWPxYeFxEHJ8j7Gqjah2U6PC3Ta9lg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\amcel\\repos\\LinqExercise\\LinqExercise\\LinqExercise.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\amcel\\.nuget\\packages\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
+    "C:\\Users\\amcel\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",
+    "C:\\Users\\amcel\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.1.0\\microsoft.netcore.dotnethostpolicy.2.1.0.nupkg.sha512",
+    "C:\\Users\\amcel\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.1.0\\microsoft.netcore.dotnethostresolver.2.1.0.nupkg.sha512",
+    "C:\\Users\\amcel\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.0\\microsoft.netcore.platforms.2.1.0.nupkg.sha512",
+    "C:\\Users\\amcel\\.nuget\\packages\\microsoft.netcore.targets\\2.1.0\\microsoft.netcore.targets.2.1.0.nupkg.sha512",
+    "C:\\Users\\amcel\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
